@@ -11,6 +11,7 @@ Instructions
 Task
 -----
 
+* Fill out your learning plan self review for the week: https://github.com/makersacademy/learning_plan
 * Fork this repo
 * Reopen the Array class or subclass it.
 * Rewrite the inject method. Write a test for it first. Don't worry about returning an enumerator, assume a block is always given
